@@ -14,8 +14,8 @@ public class DateMethod {
 	
 	public static void main (String[] args) {
 		
-		System.out.printAmerican("Tuesday", 22, "September", 2026);
-		System.out.printEuropean("Tuesday", 22, "September", 2026);
+		printAmerican("Tuesday", 22, "September", 2026);
+		printEuropean("Tuesday", 22, "September", 2026);
 			
 	}
 
