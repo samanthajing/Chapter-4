@@ -6,7 +6,7 @@ public class DateMethod {
 	
 	}
 	
-	public static void printAmerican(String day, int date, String month, int year) {
+	public static void printEuropean(String day, int date, String month, int year) {
 		
 		System.out.println("European format" + ": " + day + " " + date + " " + month + " " + year);
 		
